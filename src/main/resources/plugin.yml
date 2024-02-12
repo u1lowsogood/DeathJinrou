@@ -1,0 +1,4 @@
+name: Deathjinrou
+version: '${project.version}'
+main: com.github.u1lowsogood.deathjinrou.Deathjinrou
+api-version: 1.16
